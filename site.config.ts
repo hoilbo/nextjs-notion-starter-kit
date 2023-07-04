@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'OBNAH',
   domain: 'https://www.notion.so/OBNAH-a42a9dbcf98f45ec822b32fa44c4ddcc',
-  author: 'HANBO',
+  //author: 'HANBO',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
